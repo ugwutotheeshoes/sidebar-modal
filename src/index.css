@@ -262,7 +262,8 @@ Sidebar
 }
 .logo {
   justify-self: center;
-  height: 40px;
+  font-size: 35px;
+  margin-top: 0.8rem;
 }
 
 .links a {
